@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-fundamentals/static/css/main.bd64cef1.css",
-    "main.js": "/react-fundamentals/static/js/main.320ebb6c.js",
-    "static/js/787.e4e9b7ff.chunk.js": "/react-fundamentals/static/js/787.e4e9b7ff.chunk.js",
-    "index.html": "/react-fundamentals/index.html",
-    "main.bd64cef1.css.map": "/react-fundamentals/static/css/main.bd64cef1.css.map",
-    "main.320ebb6c.js.map": "/react-fundamentals/static/js/main.320ebb6c.js.map",
-    "787.e4e9b7ff.chunk.js.map": "/react-fundamentals/static/js/787.e4e9b7ff.chunk.js.map"
+    "main.css": "/react-fundamentals-project/static/css/main.bd64cef1.css",
+    "main.js": "/react-fundamentals-project/static/js/main.28fb7236.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/react-fundamentals-project/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/react-fundamentals-project/index.html",
+    "main.bd64cef1.css.map": "/react-fundamentals-project/static/css/main.bd64cef1.css.map",
+    "main.28fb7236.js.map": "/react-fundamentals-project/static/js/main.28fb7236.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/react-fundamentals-project/static/js/787.e4e9b7ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd64cef1.css",
-    "static/js/main.320ebb6c.js"
+    "static/js/main.28fb7236.js"
   ]
 }
